@@ -13,7 +13,7 @@ public class App{
 
 
 
-        //JFrame is basically the Window
+
         JFrame frame =new JFrame("Pack Man");
         frame.setVisible(true);
         frame.setSize(boardWidth,boardHeight);
