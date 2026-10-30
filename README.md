@@ -1,4 +1,5 @@
 Pac-Man Game 
+
 A personal recreation of the classic Pac-Man arcade game, built as a game-development project. The goal is to guide Pac-Man through a maze, collect points, and avoid enemies.
 About the Project
 This project is a chance to practice programming through a familiar arcade game. It focuses on implementing game mechanics, keyboard-controlled movement, and the logic behind an interactive game.
